@@ -1,7 +1,7 @@
 kavaliro.github.io
 ==================
 
-**Projects:
+##Projects:
 
-***BELaj Tradukoj
+###BELaj Tradukoj
 A project to reduce the logistical overhead of translating the Baha'i Writings into Esperanto.
